@@ -72,13 +72,13 @@
 <div class='paper-box-image'>
   <div>
     <div class="badge">GJI</div>
-      <img src='images/Publications/ADsurf-cover.png' alt="sym" width="100%">
+      <img src='images/Publications/ADsurf-cover.jpg' alt="sym" width="100%">
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
 
 [Multimodal surface wave inversion with automatic differentiation](https://doi.org/10.1093/gji/ggae155) \\
-**Liu, F.**, Deng, B., Su, R., Bai, L., & Ouyang, W. (2025)
+**Liu, F.**, Li, J., Fu, L., & Lu, L. (2024)
 
 🔗[Code Repository: github.com/liufeng2317/ADsurf](https://github.com/liufeng2317/ADsurf) ![GitHub stars](https://img.shields.io/github/stars/liufeng2317/ADsurf?style=social)
 
