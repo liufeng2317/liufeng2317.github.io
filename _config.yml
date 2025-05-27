@@ -6,13 +6,13 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yi Ren (任意)"
-description              : "Focusing on video and speech large generation model."
-repository               : "rayeren/rayeren.github.io"
+title                    : "Feng Liu (刘烽)"
+description              : "Focusing on AI for Geophysics."
+repository               : "liufeng2317/liufeng.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      : G-SWFCX99KQZ
+# google_analytics_id      : G-SWFCX99KQZ
 
 # SEO Related
 google_site_verification : b_BbOIt7d513ZXYDw-YRMicO6O5tthYiouqWDdWjGTU
@@ -21,15 +21,15 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Yi Ren (任意)"
-  avatar           : "images/ry_profile.jpeg"
-  bio              : ""
-  location         : "Singapore"
+  name             : "Feng Liu (刘烽)"
+  avatar           : "images/Myself/FL2.png"
+  bio              : "Ph.D. Candidate in Information and Communication Engineering, Shanghai Jiao Tong University"
+  location         : "Shanghai"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
-  email            : "rayeren613@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=wxjA8poAAAAJ"
+  email            : "liufeng2317@sjtu.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Feng-Liu-257/research"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "RayeRen"
+  github           : "liufeng2317"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "rayeren"
-  dblp             : "https://dblp.org/pid/75/6568-6.html"
-  orcid            : "https://orcid.org/0000-0002-9160-3848"
+  linkedin         : #
+  dblp             : # "https://dblp.org/pid/75/6568-6.html"
+  orcid            : "https://orcid.org/0009-0006-3381-2242"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
