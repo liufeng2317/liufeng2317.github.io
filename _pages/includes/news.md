@@ -1,6 +1,5 @@
 # 🔥 News
-- *2024.03*: 🎉 Two papers are accepted by ICLR 2024
-- *2023.05*: 🎉 Five papers are accepted by ACL 2023
-- *2023.01*: DiffSinger was introduced in [a very popular video](https://www.bilibili.com/video/BV1uM411t7ZJ) (2000k+ views) in Bilibili!
-- *2023.01*: I join TikTok <img src='./images/tiktok.png' style='width: 6em;'> as a speech research scientist in Singapore!
-- *2022.02*: I release a modern and responsive academic personal [homepage template](https://github.com/RayeRen/acad-homepage.github.io). Welcome to STAR and FORK!
+- *2025.05*: 🔥 New preprint [Temporal-Spectral-Spatial Unified Remote Sensing Dense Prediction](https://arxiv.org/abs/2505.12280) is now available on arXiv.
+- *2023.04*: 🔥 New preprint [Deep Reparameterization for Full Waveform Inversion: Architecture Benchmarking, Robust Inversion, and Multiphysics Extension](https://arxiv.org/abs/2504.17375) is now available on arXiv.
+- *2023.03*: 🎉 The article titled [Automatic Differentiation-Based Full Waveform Inversion With Flexible Workflows](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JH000542) has been published in *JGR: Machine Learning & Computation*.
+- *2023.02*: 🎉 Detailed documentation of [ADFWI](https://github.com/liufeng2317/ADFWI) is released! Welcome to star and fork!
