@@ -36,7 +36,7 @@
 [Deep reparameterization for full waveform inversion: Architecture benchmarking, robust inversion, and multiphysics extension (Version 1)](https://doi.org/10.48550/ARXIV.2504.17375) \\
 **Liu, F.**, Li, Y., Su, R., Huang, J., & Bai, L. (2025)
 
-🔗[Code Repository: [github.com/liufeng2317/ADFWI](https://github.com/liufeng2317/ADFWI/tree/bv1.1/examples/DR-FWI)](https://github.com/liufeng2317/ADFWI/) ![GitHub stars](https://img.shields.io/github/stars/liufeng2317/ADFWI?style=social)
+🔗[Code Repository: [github.com/liufeng2317/ADFWI]](https://github.com/liufeng2317/ADFWI/tree/bv1.1/examples/DR-FWI) ![GitHub stars](https://img.shields.io/github/stars/liufeng2317/ADFWI?style=social)
 
 - **DRFWI**: A deep reparameterization framework for full waveform inversion (FWI).
 - **Architecture Benchmarking**: Evaluates CNNs, UNets, MLPs, and other architectures for model reparameterization.
