@@ -1,6 +1,5 @@
 
 # 📝 Publications 
-## 🎙 Geophysical Inversion
 
 <!-- ADFWI -->
 <div class='paper-box'>
@@ -17,14 +16,79 @@
 
 🔗[Code Repository: github.com/liufeng2317/ADFWI](https://github.com/liufeng2317/ADFWI) ![GitHub stars](https://img.shields.io/github/stars/liufeng2317/ADFWI?style=social)
 
-- **ADFWI** is a flexible full waveform inversion framework based on automatic differentiation, implemented in PyTorch.
-- **Multi-Physics**: It supports acoustic, elastic, and anisotropic wave propagation modeling.
-- **Multi-Workflow**: The framework incorporates various misfit functions, regularization techniques, and optimization algorithms, allowing customizable inversion workflows.
-- **Multi-Platform**: It supports both CPU and GPU execution, and is optimized for parallel computing.
+- **ADFWI**: A PyTorch-based full waveform inversion framework leveraging automatic differentiation.  
+- **Multi-Physics**: Supports acoustic, elastic, and anisotropic wave propagation.  
+- **Multi-Workflow**: Integrates diverse misfit functions, regularization methods, and optimizers for flexible inversion design.  
+- **Multi-Platform**: Runs on both CPU and GPU with parallel computing support.
 </div>
 </div>
 
+<!-- DRFWI -->
+<div class='paper-box'>
+<div class='paper-box-image'>
+  <div>
+    <div class="badge">Arxiv</div>
+      <img src='images/Publications/DRFWI-cover.png' alt="sym" width="100%">
+    </div>
+  </div>
+<div class='paper-box-text' markdown="1">
 
+[Deep reparameterization for full waveform inversion: Architecture benchmarking, robust inversion, and multiphysics extension (Version 1)](https://doi.org/10.48550/ARXIV.2504.17375) \\
+**Liu, F.**, Li, Y., Su, R., Huang, J., & Bai, L. (2025)
+
+🔗[Code Repository: [github.com/liufeng2317/ADFWI](https://github.com/liufeng2317/ADFWI/tree/bv1.1/examples/DR-FWI)](https://github.com/liufeng2317/ADFWI/) ![GitHub stars](https://img.shields.io/github/stars/liufeng2317/ADFWI?style=social)
+
+- **DRFWI**: A deep reparameterization framework for full waveform inversion (FWI).
+- **Architecture Benchmarking**: Evaluates CNNs, UNets, MLPs, and other architectures for model reparameterization.
+- **Robustness**: Assesses inversion performance under varying noise levels and sparse acquisition.
+- **Multi-Physics Extension**: Introduces a backbone-branch structure for multiparameter inversion, reducing cross-parameter interference.
+</div>
+</div>
+
+<!-- DispFormer -->
+<div class='paper-box'>
+<div class='paper-box-image'>
+  <div>
+    <div class="badge">Arxiv</div>
+      <img src='images/Publications/Dispformer-cover.png' alt="sym" width="100%">
+    </div>
+  </div>
+<div class='paper-box-text' markdown="1">
+
+[DispFormer: Pretrained transformer for flexible dispersion curve inversion from global synthesis to regional applications (Version 1)](https://doi.org/10.48550/ARXIV.2501.04366) \\
+**Liu, F.**, Deng, B., Su, R., Bai, L., & Ouyang, W. (2025)
+
+🔗[Code Repository: github.com/liufeng2317/DispFormer](https://github.com/liufeng2317/DispFormer) ![GitHub stars](https://img.shields.io/github/stars/liufeng2317/DispFormer?style=social)
+
+- **DispFormer**: A pretrained transformer for flexible dispersion curve inversion, from global synthesis to regional applications.  
+- **Zero-shot**: Directly inverts dispersion curves of arbitrary lengths without target-specific training.  
+- **Few-shot**: Outperforms state-of-the-art global search methods with minimal training data.  
+- **Multi-Physics Extension**: Easily adaptable to tasks like 1D electrical inversion, receiver function inversion, and multi-modal surface wave inversion.
+</div>
+</div>
+
+<!-- ADsurf -->
+<div class='paper-box'>
+<div class='paper-box-image'>
+  <div>
+    <div class="badge">GJI</div>
+      <img src='images/Publications/ADsurf-cover.png' alt="sym" width="100%">
+    </div>
+  </div>
+<div class='paper-box-text' markdown="1">
+
+[Multimodal surface wave inversion with automatic differentiation](https://doi.org/10.1093/gji/ggae155) \\
+**Liu, F.**, Deng, B., Su, R., Bai, L., & Ouyang, W. (2025)
+
+🔗[Code Repository: github.com/liufeng2317/ADsurf](https://github.com/liufeng2317/ADsurf) ![GitHub stars](https://img.shields.io/github/stars/liufeng2317/ADsurf?style=social)
+
+- **ADsurf**: A PyTorch-based framework for multimodal surface wave inversion using automatic differentiation.  
+- **High-Performance**: Optimized using GPU with parallel computing support (10x faster than CPU).  
+- **Uncertainty Quantification**: Provides uncertainty estimates for inversion results.  
+</div>
+</div>
+
+## 🎙 Geophysical Inversion
 - **Liu, F.**, Li, Y., Su, R., Huang, J., & Bai, L. (2025). [Deep reparameterization for full waveform inversion: Architecture benchmarking, robust inversion, and multiphysics extension (Version 1)](https://doi.org/10.48550/ARXIV.2504.17375) (Submitted to `IEEE Transactions on Geoscience and Remote Sensing`)
 - **Liu, F.**, Deng, B., Su, R., Bai, L., & Ouyang, W. (2025). [DispFormer: Pretrained transformer for flexible dispersion curve inversion from global synthesis to regional applications (Version 1)](https://doi.org/10.48550/ARXIV.2501.04366) (Submitted to `JGR: Machine Learning and Computation`)
 - **Liu, F.**, Li, H., Zou, G., & Li, J. (2025). [Automatic differentiation‐based full waveform inversion with flexible workflows](https://doi.org/10.1029/2024JH000542) (`JGR: Machine Learning and Computation`)
