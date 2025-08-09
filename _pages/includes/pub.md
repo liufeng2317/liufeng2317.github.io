@@ -33,7 +33,7 @@
   </div>
 <div class='paper-box-text' markdown="1">
 
-[Deep reparameterization for full waveform inversion: Architecture benchmarking, robust inversion, and multiphysics extension (Version 1)](https://doi.org/10.48550/ARXIV.2504.17375) \\
+[Deep Reparameterization for Full Waveform Inversion: Architecture Benchmarking, Robust Inversion, and Multiphysics Extension (Version 2)](https://doi.org/10.48550/ARXIV.2504.17375) \\
 **Liu, F.**, Li, Y., Su, R., Huang, J., & Bai, L. (2025)
 
 🔗[Code Repository: [github.com/liufeng2317/ADFWI]](https://github.com/liufeng2317/ADFWI/tree/bv1.1/examples/DR-FWI) ![GitHub stars](https://img.shields.io/github/stars/liufeng2317/ADFWI?style=social)
@@ -89,7 +89,7 @@
 </div>
 
 ## 🎙 Geophysical Inversion
-- Submitted to `IEEE Transactions on Geoscience and Remote Sensing`: **Liu, F.**, Li, Y., Su, R., Huang, J., & Bai, L. (2025). [Deep reparameterization for full waveform inversion: Architecture benchmarking, robust inversion, and multiphysics extension (Version 1)](https://doi.org/10.48550/ARXIV.2504.17375)
+- Online on `arXiv`: **Liu, F.**, Li, Y., Su, R., Huang, J., & Bai, L. (2025). [Deep reparameterization for full waveform inversion: Architecture benchmarking, robust inversion, and multiphysics extension (Version 1)](https://doi.org/10.48550/ARXIV.2504.17375)
 - Submitted to `JGR: Machine Learning and Computation`: **Liu, F.**, Deng, B., Su, R., Bai, L., & Ouyang, W. (2025). [DispFormer: Pretrained transformer for flexible dispersion curve inversion from global synthesis to regional applications (Version 1)](https://doi.org/10.48550/ARXIV.2501.04366)
 - Published in `JGR: Machine Learning and Computation`: **Liu, F.**, Li, H., Zou, G., & Li, J. (2025). [Automatic differentiation‐based full waveform inversion with flexible workflows](https://doi.org/10.1029/2024JH000542)
 - Published in `Geophysical Journal International`: **Liu, F.**, Li, J., Fu, L., & Lu, L. (2024). [Multimodal surface wave inversion with automatic differentiation](https://doi.org/10.1093/gji/ggae155)
@@ -97,7 +97,7 @@
 ## 🎙 Seismic Monitoring
 - Submitted to `NeurIPS 2025`: Wang, F., Chen, M., He, X., Zhang, Y.-F., **Liu, F.**, et al. (2025). [OmniEarth-bench: Towards holistic evaluation of Earth’s six spheres and cross-spheres interactions with multimodal observational earth data](https://openreview.net/forum?id=KWkchJSVhC) 
   - Contribution: Manuscript revision and partial contribution to data collection and curation.
-- Online on `arXiv`: Wang, X., **Liu, F.**, Su, R., Wang, Z., Bai, L., & Ouyang, W. (2025). [SeisMoLLM: Advancing Seismic Monitoring via Cross-modal Transfer with Pre-trained Large Language Model](https://openreview.net/forum?id=K168hJ45hC) 
+- Submitted to `GRL`: Wang, X., **Liu, F.**, Su, R., Wang, Z., Bai, L., & Ouyang, W. (2025). [SeisMoLLM: Advancing Seismic Monitoring via Cross-modal Transfer with Pre-trained Large Language Model](https://openreview.net/forum?id=K168hJ45hC) 
   - Contribution: Responsible for manuscript revision and overall coordination.
 - Online on `arXiv`: Zhang, T., **Liu, F.**, Yuan, Y., Su, R., Ouyang, W., & Bai, L. (2024). [Fast Information Streaming Handler (FisH): A Unified Seismic Neural Network for Single Station Real-Time Earthquake Early Warning (Version 1)](https://doi.org/10.48550/ARXIV.2408.06629)
   - Contribution: Designed and implemented the main framework and code.
@@ -109,6 +109,6 @@
 ## 🎙 Remote Sensing
 
 - Submitted to `NeurIPS 2025`: Zhao, S., **Liu, F.**, Zhang, X., Chen, H., Xiao, P., & Bai, L. (2025). [Temporal-Spectral-Spatial Unified Remote Sensing Dense Prediction (Version 1)](https://doi.org/10.48550/ARXIV.2505.12280)
-  - Contribution: Manuscript writting and revision.
-- Online on `arXiv`: Zhao, S., **Liu, F.**, Zhang, X., Chen, H., Han, T., Gong, J., Tao, R., Xiao, P., Bai, L., & Ouyang, W. (2025). [Transforming weather data from pixel to latent space (Version 1)](https://doi.org/10.48550/ARXIV.2503.06623)
-  - Contribution: Manuscript writting and revision.
+  - Contribution: Methodology, Manuscript writting and revision.
+- Submitted to  `AAAI 2025`: Zhao, S., **Liu, F.**, Zhang, X., Chen, H., Han, T., Gong, J., Tao, R., Xiao, P., Bai, L., & Ouyang, W. (2025). [Transforming weather data from pixel to latent space (Version 2)](https://doi.org/10.48550/ARXIV.2503.06623)
+  - Contribution: Methodology, Manuscript writting and revision.
