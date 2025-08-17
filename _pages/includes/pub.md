@@ -88,6 +88,29 @@
 </div>
 </div>
 
+<!-- OpenSWI -->
+<div class='paper-box'>
+<div class='paper-box-image'>
+  <div>
+    <div class="badge">Arxiv</div>
+      <img src='images/Publications/OpenSWI.png' alt="sym" width="100%">
+    </div>
+  </div>
+<div class='paper-box-text' markdown="1">
+
+[OpenSWI: A Massive-Scale Benchmark Dataset for Surface Wave Dispersion Curve Inversion](https://arxiv.org/abs/2508.10749) \\
+**Liu, F.**, Zhao, S., Gu, X., Ling, F., Zhuang, P., Li, Y., Su, R., Fang, L., Zhou, L., Huang, J., & Bai, L. (2025)
+
+🔗[Code Repository: github.com/liufeng2317/OpenSWI](https://github.com/liufeng2317/OpenSWI) ![GitHub stars](https://img.shields.io/github/stars/liufeng2317/OpenSWI?style=social)
+
+- **Massive-Scale**: 22M shallow and 1.26M deep synthetic samples, plus real-world observations.  
+- **Comprehensive Coverage**: From near-surface geology to deep Earth structures.  
+- **Benchmark Standard**: Unified dataset for developing and evaluating AI-based inversion methods.  
+- **Open & Reproducible**: Generated via the SWIDP pipeline and fully released with code and examples.  
+
+</div>
+</div>
+
 ## 🎙 Geophysical Inversion
 - Online on `arXiv`: **Liu, F.**, Li, Y., Su, R., Huang, J., & Bai, L. (2025). [Deep reparameterization for full waveform inversion: Architecture benchmarking, robust inversion, and multiphysics extension](https://doi.org/10.48550/ARXIV.2504.17375)
 - Accept by `JGR: Machine Learning and Computation`: **Liu, F.**, Deng, B., Su, R., Bai, L., & Ouyang, W. (2025). [	DispFormer: A Pretrained Transformer Incorporating Physical Constraints for Dispersion Curve Inversion](https://doi.org/10.48550/ARXIV.2501.04366)
