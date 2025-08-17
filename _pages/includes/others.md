@@ -13,5 +13,6 @@
 - [OpenSWI](https://liufeng2317.github.io/OpenSWI/) ![GitHub stars](https://img.shields.io/github/stars/liufeng2317/OpenSWI?style=social): A massive-scale benchmark dataset for surface wave inversion.
 
 ## 📊 Datasets
-- [OpenSWI-dataset](https://huggingface.co/datasets/LiuFeng2317/OpenSWI): [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.16874111-blue)](https://doi.org/10.5281/zenodo.16874111) A massive-scale benchmark dataset for surface wave inversion.
+- [OpenSWI-dataset](https://huggingface.co/datasets/LiuFeng2317/OpenSWI) [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.16874111-blue)](https://doi.org/10.5281/zenodo.16874111): A massive-scale benchmark dataset for surface wave inversion.
+
 - [DispFormer-dataset](https://zenodo.org/records/14619577):[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.14619577-blue)](https://doi.org/10.5281/zenodo.14619577): A benchmark dataset for surface wave dispersion curve inversion.
