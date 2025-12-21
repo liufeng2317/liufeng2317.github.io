@@ -33,7 +33,7 @@
   </div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Reparameterization for Full Waveform Inversion: Architecture Benchmarking, Robust Inversion, and Multiphysics Extension (Version 2)](https://doi.org/10.48550/ARXIV.2504.17375) \\
+[Deep Reparameterization for Full Waveform Inversion: Architecture Benchmarking, Robust Inversion, and Multiphysics Extension](https://doi.org/10.1016/j.petsci.2025.12.027) \\
 **Liu, F.**, Li, Y., Su, R., Huang, J., & Bai, L. (2025)
 
 🔗[Code Repository: [github.com/liufeng2317/ADFWI]](https://github.com/liufeng2317/ADFWI/tree/bv1.1/examples/DR-FWI) ![GitHub stars](https://img.shields.io/github/stars/liufeng2317/ADFWI?style=social)
@@ -55,7 +55,7 @@
   </div>
 <div class='paper-box-text' markdown="1">
 
-[	DispFormer: A Pretrained Transformer Incorporating Physical Constraints for Dispersion Curve Inversion](https://doi.org/10.48550/ARXIV.2501.04366) \\
+[	DispFormer: A Pretrained Transformer Incorporating Physical Constraints for Dispersion Curve Inversion](https://doi.org/10.1029/2025JH000648) \\
 **Liu, F.**, Deng, B., Su, R., Bai, L., & Ouyang, W. (2025)
 
 🔗[Code Repository: github.com/liufeng2317/DispFormer](https://github.com/liufeng2317/DispFormer) ![GitHub stars](https://img.shields.io/github/stars/liufeng2317/DispFormer?style=social)
@@ -98,7 +98,7 @@
   </div>
 <div class='paper-box-text' markdown="1">
 
-[OpenSWI: A Massive-Scale Benchmark Dataset for Surface Wave Dispersion Curve Inversion](https://arxiv.org/abs/2508.10749) \\
+[OpenSWI: A Massive-Scale Benchmark Dataset for Surface Wave Dispersion Curve Inversion](https://doi.org/10.5194/essd-2025-502) \\
 **Liu, F.**, Zhao, S., Gu, X., Ling, F., Zhuang, P., Li, Y., Su, R., Fang, L., Zhou, L., Huang, J., & Bai, L. (2025)
 
 🔗[Code Repository: github.com/liufeng2317/OpenSWI](https://github.com/liufeng2317/OpenSWI) ![GitHub stars](https://img.shields.io/github/stars/liufeng2317/OpenSWI?style=social)
@@ -112,8 +112,8 @@
 </div>
 
 ## 🎙 Geophysical Inversion
-- Online on `arXiv`: **Liu, F.**, Zhao, S., Gu, X., Ling, F., Zhuang, P., Li, Y., Su, R., Fang, L., Zhou, L., Huang, J., & Bai, L. (2025). [OpenSWI: A Massive-Scale Benchmark Dataset for Surface Wave Dispersion Curve Inversion](https://arxiv.org/abs/2508.10749)
-- Online on `arXiv`: **Liu, F.**, Li, Y., Su, R., Huang, J., & Bai, L. (2025). [Deep reparameterization for full waveform inversion: Architecture benchmarking, robust inversion, and multiphysics extension](https://doi.org/10.48550/ARXIV.2504.17375)
+- In review on `ESSD`: **Liu, F.**, Zhao, S., Gu, X., Ling, F., Zhuang, P., Li, Y., Su, R., Fang, L., Zhou, L., Huang, J., & Bai, L. (2025). [OpenSWI: A Massive-Scale Benchmark Dataset for Surface Wave Dispersion Curve Inversion](https://doi.org/10.5194/essd-2025-502)
+- Published in `Petroleum Science`: **Liu, F.**, Li, Y., Su, R., Huang, J., & Bai, L. (2025). [Deep reparameterization for full waveform inversion: Architecture benchmarking, robust inversion, and multiphysics extension](https://doi.org/10.1016/j.petsci.2025.12.027)
 - Published in `JGR: Machine Learning and Computation`: **Liu, F.**, Deng, B., Su, R., Bai, L., & Ouyang, W. (2025). [	DispFormer: A Pretrained Transformer Incorporating Physical Constraints for Dispersion Curve Inversion](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025JH000648)
 - Published in `JGR: Machine Learning and Computation`: **Liu, F.**, Li, H., Zou, G., & Li, J. (2025). [Automatic differentiation‐based full waveform inversion with flexible workflows](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JH000542)
 - Published in `Geophysical Journal International`: **Liu, F.**, Li, J., Fu, L., & Lu, L. (2024). [Multimodal surface wave inversion with automatic differentiation](https://doi.org/10.1093/gji/ggae155)
