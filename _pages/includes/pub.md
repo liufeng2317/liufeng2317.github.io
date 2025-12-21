@@ -112,6 +112,8 @@
 </div>
 
 ## 🎙 Geophysical Inversion
+- Online on `arXiv`: Zou, G., Li, J., **Liu, F.**, Zheng, X., Xie, J. & Chen, G., (2025). [Self-reinforced deep priors for reparameterized full waveform inversion](https://arxiv.org/abs/2512.08284)
+  - Contribution: provide the original idea, discuss the implementation, and manuscript revision
 - In review on `ESSD`: **Liu, F.**, Zhao, S., Gu, X., Ling, F., Zhuang, P., Li, Y., Su, R., Fang, L., Zhou, L., Huang, J., & Bai, L. (2025). [OpenSWI: A Massive-Scale Benchmark Dataset for Surface Wave Dispersion Curve Inversion](https://doi.org/10.5194/essd-2025-502)
 - Published in `Petroleum Science`: **Liu, F.**, Li, Y., Su, R., Huang, J., & Bai, L. (2025). [Deep reparameterization for full waveform inversion: Architecture benchmarking, robust inversion, and multiphysics extension](https://doi.org/10.1016/j.petsci.2025.12.027)
 - Published in `JGR: Machine Learning and Computation`: **Liu, F.**, Deng, B., Su, R., Bai, L., & Ouyang, W. (2025). [	DispFormer: A Pretrained Transformer Incorporating Physical Constraints for Dispersion Curve Inversion](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025JH000648)
