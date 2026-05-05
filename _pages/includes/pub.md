@@ -131,9 +131,11 @@
 ## 🛰 Remote Sensing
 - Published in `ICML`: Zhao, S., **Liu, F.**, Zhang, X., Chen, H., Han, T., Gong, J., Tao, R., Xiao, P., Bai, L., & Ouyang, W. (2026). [Transforming Weather Data from Pixel to Latent Space](https://doi.org/10.48550/ARXIV.2503.06623)
 - Online on `arXiv`: Zhao, S., **Liu, F.**, Zhang, X., Chen, H., Xiao, P., & Bai, L. (2025). [Temporal-Spectral-Spatial Unified Remote Sensing Dense Prediction](https://doi.org/10.48550/ARXIV.2505.12280)
-- Online on `arXiv`: Zhao, S., **Liu, F.**, Zhang, X., Chen, H., Gu, X., et al. (2026). [OpenEarth-agent: From Tool Calling to Tool Creation for Open-Environment Earth Observation](https://doi.org/10.48550/arXiv.2603.22148)
 
 ## 🤖 Scientific Agents & AI for Science
 - Online on `arXiv`: **Liu, F.**, Xu, J., Cui, X., Wang, X., Guo, Z., et al. (2026). [TRACE: A Multi-Agent System for Autonomous Physical Reasoning for Seismology](https://arxiv.org/abs/2603.21152)
+- Online on `arXiv`: Zhao, S.*, **Liu, F.***, Zhang, X., Chen, H., Gu, X., et al. (2026). [OpenEarth-agent: From Tool Calling to Tool Creation for Open-Environment Earth Observation](https://doi.org/10.48550/arXiv.2603.22148)
 - Online on `arXiv`: Jiang, Y., Lou, W., Wang, L., Tang, Z., Feng, S., et al. (2025). [SCP: Accelerating Discovery with a Global Web of Autonomous Scientific Agents](https://doi.org/10.48550/arXiv.2512.24189)
 - Online on `arXiv`: Xu, W., Zhou, Y., Zhou, Y., Cao, Q., Li, S., et al. (2025). [Probing Scientific General Intelligence of LLMs with Scientist-Aligned Workflows](https://doi.org/10.48550/arXiv.2512.16969)
+
+`*` Co-first authors.
