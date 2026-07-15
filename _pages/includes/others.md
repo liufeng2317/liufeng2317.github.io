@@ -9,5 +9,3 @@
 ## 📚 Projects
 - [ADFWI](https://github.com/liufeng2317/ADFWI) ![GitHub stars](https://img.shields.io/github/stars/liufeng2317/ADFWI?style=social): An Automatic Differentiation-based Waveform Inversion Framework Implemented in PyTorch.
 - [ADsurf](https://github.com/liufeng2317/ADsurf) ![GitHub stars](https://img.shields.io/github/stars/liufeng2317/ADsurf?style=social): An automatic differentiation based (AD-based) multimodal surface wave inversion tools
-## 📊 Datasets
-- [DispFormer-dataset](https://zenodo.org/records/14619577) [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.14619577-blue)](https://doi.org/10.5281/zenodo.14619577): A benchmark dataset for surface wave dispersion curve inversion.

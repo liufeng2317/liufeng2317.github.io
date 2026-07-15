@@ -23,28 +23,6 @@
 </div>
 </div>
 
-<!-- DRFWI -->
-<div class='paper-box'>
-<div class='paper-box-image'>
-  <div>
-    <div class="badge">Petroleum Science</div>
-      <img src='images/Publications/DRFWI-cover.png' alt="sym" width="100%">
-    </div>
-  </div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Reparameterization for Full Waveform Inversion: Architecture Benchmarking, Robust Inversion, and Multiphysics Extension](https://doi.org/10.1016/j.petsci.2025.12.027) \\
-**Liu, F.**, Li, Y.-X., Su, R., Huang, J.-P., & Bai, L. (2025)
-
-🔗[Code Repository: github.com/liufeng2317/ADFWI](https://github.com/liufeng2317/ADFWI/tree/bv1.1/examples/DR-FWI) ![GitHub stars](https://img.shields.io/github/stars/liufeng2317/ADFWI?style=social)
-
-- **DRFWI**: A deep reparameterization framework for full waveform inversion.
-- **Architecture Benchmarking**: Evaluates CNNs, U-Nets, MLPs, and related architectures for model reparameterization.
-- **Robustness**: Assesses inversion performance under varying noise levels and sparse acquisition.
-- **Multi-Physics Extension**: Introduces a backbone-branch structure for multiparameter inversion, reducing cross-parameter interference.
-</div>
-</div>
-
 <!-- ADsurf -->
 <div class='paper-box'>
 <div class='paper-box-image'>
@@ -68,7 +46,6 @@
 
 ## 🎙 Geophysical Inversion
 - Online on `arXiv`: Zou, G., Li, J., **Liu, F.**, Zheng, X., Xie, J., & Chen, G. (2025). [Self-Reinforced Deep Priors for Reparameterized Full Waveform Inversion](https://doi.org/10.48550/ARXIV.2512.08284)
-- Published in `IEEE Transactions on Geoscience and Remote Sensing`: Lin, J., Zhao, Y., **Liu, F.**, Chen, J., Li, J., & Zhang, Y. (2026). [Efficient Transient Electromagnetic Inversion With Automatic Differentiation](https://doi.org/10.1109/TGRS.2026.3665936)
 - Published in `Journal of Geophysical Research: Machine Learning and Computation`: **Liu, F.**, Li, H., Zou, G., & Li, J. (2025). [Automatic Differentiation-Based Full Waveform Inversion With Flexible Workflows](https://doi.org/10.1029/2024JH000542)
 - Published in `Geophysical Journal International`: **Liu, F.**, Li, J., Fu, L., & Lu, L. (2024). [Multimodal Surface Wave Inversion with Automatic Differentiation](https://doi.org/10.1093/gji/ggae155)
 
